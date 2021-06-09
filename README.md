@@ -19,9 +19,9 @@ This program is developed to complete the second final assignment for KU1102 Pen
 1. Open your terminal (bash) in your dedicated folder for this repo
 2. Clone this repository
     ```sh
-    git clone https://github.com/malikrafsan/Tugas-Besar2-KU1102.git
+    git clone https://github.com/malikrafsan/US-Youtube-Data-Analysis-Visualization.git
     ```
-3. Open Tugas-Besar2-KU1102 folder and upload [Tugas_Besar_2_Kelompok_8.ipynb](Tugas_Besar_2_Kelompok_8.ipynb) to Google Colab / Jupyter Notebook
+3. Open US-Youtube-Data-Analysis-Visualization folder and upload [Tugas_Besar_2_Kelompok_8.ipynb](Tugas_Besar_2_Kelompok_8.ipynb) to Google Colab / Jupyter Notebook
 4. Run all block program
 5. Enjoy the program :D
 
